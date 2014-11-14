@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  card_number: MyString
+  cvv: MyString
+  expiration_date: 2014-11-14
+  first_name_on_card: MyString
+  last_name_on_card: MyString
+  billing_zip: MyString
+  first_name: MyString
+  last_name: MyString
+  email_address: MyString
+  string: MyString
+  organization: MyString
+  subscription_id: MyString
+
+two:
+  card_number: MyString
+  cvv: MyString
+  expiration_date: 2014-11-14
+  first_name_on_card: MyString
+  last_name_on_card: MyString
+  billing_zip: MyString
+  first_name: MyString
+  last_name: MyString
+  email_address: MyString
+  string: MyString
+  organization: MyString
+  subscription_id: MyString
